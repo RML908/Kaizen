@@ -1,2 +1,2 @@
 # Kaizen
-Angular application for Kaizen  services 
+React application for Kaizen  services 
